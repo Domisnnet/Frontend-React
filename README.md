@@ -119,7 +119,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Analise a lógica de renderização e os estilos globais:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend-green?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Frontend/tree/main/src)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Frontend/tree/main/src)
 ---
 
 <h2 id="créditos">10. 📝 Créditos & Reconhecimentos</h2>
