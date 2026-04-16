@@ -41,7 +41,7 @@ Bem-vindo ao **React CRUD**! Este é um projeto full-stack (frontend) que simula
 Experimente a interface do sistema administrativo agora mesmo:
 
 <div align="left">
-  <a href="https://github.com/Domisnnet/Frontend-React/" target="_blank">
+  <a href="https://frontend-react-41294390-1a088.web.app/" target="_blank">
     <img alt="Botão Acessar" src="src/assets/images/botão.webp" height="70" width="70" />
   </a>
 </div>
