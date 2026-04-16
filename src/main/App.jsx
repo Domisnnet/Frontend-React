@@ -5,10 +5,10 @@ import React from 'react';
 
 import Logo from '../components/template/Logo';
 import Nav from '../components/template/Nav';
-import Home from '../components/home/Home';
+import Home from '../components/Home/Home';
 import Footer from '../components/template/Footer';
 
-export default props => 
+const App = props => 
   <div className="app">
     <Logo />
     <div className="app-content">
@@ -17,3 +17,5 @@ export default props =>
     </div>
     <Footer />
   </div>
+
+export default App

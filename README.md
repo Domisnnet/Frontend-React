@@ -8,7 +8,7 @@
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-React%20%7C%20Bootstrap-61DAFB)
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Frontend-React/blob/main/LICENSE)
 
-![Preview do Frontend](src/assets/images/logo192.png)
+![Frontend](src/assets/images/frontend.png)
 
 Bem-vindo ao **React CRUD**! Este é um projeto full-stack (frontend) que simula um sistema completo de gerenciamento de usuários. Utilizando uma arquitetura baseada em componentes funcionais e o poder do **React**, a aplicação oferece uma interface administrativa moderna e responsiva. O projeto foca em padrões de design escaláveis, separando claramente as responsabilidades entre navegação, cabeçalho, conteúdo e rodapé.
 
