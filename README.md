@@ -122,10 +122,8 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 <h2 id="codigo-fonte">9. 💻 Código Fonte</h2>
 
 Analise a lógica de renderização e os estilos globais:
-  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend--React-61DAFB?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Frontend-React)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend--React-61DAFB?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Domisnnet/Frontend-React)
 
 ---
 
