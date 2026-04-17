@@ -123,7 +123,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Analise a lógica de renderização e os estilos globais:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend--React-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/Frontend-React/tree/main/src)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2FFrontend--React-61DAFB?style=for-the-badge&logo=react&labelColor=0d1117)](https://domisnnet.github.io/Frontend-React/)
 ---
 
 <h2 id="créditos">10. 📝 Créditos & Reconhecimentos</h2>
